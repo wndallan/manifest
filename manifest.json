@@ -1,0 +1,45 @@
+{
+    "name": "Site de animações CSS",
+    "short_name": "WendellAlan",
+    "start_url": "index.html",
+    "icons": [
+        {
+            "src": "img/icone48x48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icone72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icone96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icone128x128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icone256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icone512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme-color": "#ec2d73",
+    "background-color": "#fff",
+    "display": "fullscreen",
+    "orientation": "any",
+    "url": "https://wndallan.github.io/manifest/",
+    "lang": "Portuguese",
+    "description": "Site de animações",
+    "scope": "/"
+}
